@@ -1,0 +1,9 @@
+{
+  "name": "angular-notification-channel",
+  "version": "0.0.0",
+  "description": "A generic service for wrapping the notification (events, watchers, etc.) logic of your applications",
+  "devDependencies": {
+  	"gulp": "^3.9.0",
+    "gulp-bundle-assets": "^2.23.0"
+  }
+}

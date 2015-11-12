@@ -1,0 +1,27 @@
+{
+  "name": "angular-notification-channel",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BioPhoton/angular-notfication-channel.git",
+  "authors": [
+    "Michael Hladky michael@hladky.at"
+  ],
+  "description": "A generic service for wrapping the notification (events, watchers, etc.) logic of your applications",
+   "main": [
+             "src/*"
+           ],
+  "keywords": [
+    "Angular",
+    "Angularjs",
+    "ng",
+	"Notification Channel",
+	"Events",
+	"Watchers"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "package.json",
+    "gulpfile.js",
+    "bundle.config.js"
+  ]
+}
